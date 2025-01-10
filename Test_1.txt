@@ -1,2 +1,1 @@
-Hey I am Oggy and I creted this Test_1 file.
-Hey I am Jack and i created this Text_1 file.
+This is a test_1 file created by Oggy.
