@@ -1,3 +1,2 @@
-This is a test_1 file created by oggy.
-
-Adding some features and updating by Jack
+Adding some features and updating the content,
+Make new changes by Jack in test_1 file.
